@@ -51,3 +51,9 @@ print(np.vstack((list3,list4)))
 print("broatcasting\n")
 list3=list3*10
 print(list3)
+
+#list operations
+print("\nList Operations\n")
+print("\nSum:",np.sum(list3))
+print("\nMax:",np.max(list3))
+print("\nMim:",np.min(list3))
